@@ -1,0 +1,49 @@
+{
+   // Use IntelliSense to learn about possible attributes.
+   // Hover to view descriptions of existing attributes.
+   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Current File",
+         "request": "launch",
+         "mainClass": "${file}"
+      },
+      {
+         "type": "java",
+         "name": "ArrayOfObjectsMovies",
+         "request": "launch",
+         "mainClass": "ArrayOfObjectsMovies",
+         "projectName": "p2_homework_9e1831f"
+      },
+      {
+         "type": "java",
+         "name": "Bart1",
+         "request": "launch",
+         "mainClass": "Bart1",
+         "projectName": "p2_homework_9e1831f"
+      },
+      {
+         "type": "java",
+         "name": "Bart2",
+         "request": "launch",
+         "mainClass": "Bart2",
+         "projectName": "p2_homework_9e1831f"
+      },
+      {
+         "type": "java",
+         "name": "Driver",
+         "request": "launch",
+         "mainClass": "Driver",
+         "projectName": "p2_homework_9e1831f"
+      },
+      {
+         "type": "java",
+         "name": "ParallelArrayMovies",
+         "request": "launch",
+         "mainClass": "ParallelArrayMovies",
+         "projectName": "p2_homework_9e1831f"
+      }
+   ]
+}

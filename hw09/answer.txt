@@ -1,0 +1,15 @@
+The two numbers define the number or rows and columns
+
+=================
+      MyCanvas
+=================
+-  char fillChar;
+-  char borderChar;
+-  char[][] map;
+-  int row;
+-  int column;
+=================
+-  void load(String file)
+-  void setBorder(int borderNum)
+-  void show()
+-  int fill (String fillChar, int row, int column)
